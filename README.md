@@ -2,7 +2,7 @@
 
 Three working mods for the Claude Code mod system. Each one shows one layer of it.
 
-The long write-up is here: [What Claude Code mods can and cannot do](https://gist.github.com/gfsaaser24/069662e26e9cacf600a84521fed30886).
+The long write-up is here: [What Claude Code mods can and cannot do](https://gist.github.com/gfsaaser24/2f7ed6bfcd1b3a5848fe9aef4c79c7da).
 
 | Mod | Layer | What it shows |
 | --- | --- | --- |
