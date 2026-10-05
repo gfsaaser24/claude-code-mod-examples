@@ -1,0 +1,1 @@
+{ "name": "pulse", "version": "0.1.0", "description": "Pulse: a Node sidecar feeds a live CPU, memory and git pane", "types": "./types/index.d.ts" }

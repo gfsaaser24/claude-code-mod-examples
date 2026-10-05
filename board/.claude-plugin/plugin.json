@@ -1,0 +1,1 @@
+{ "name": "board", "version": "0.1.0", "description": "Board: a Notion kanban. SVG cards with real buttons and links on top", "types": "./types/index.d.ts" }
